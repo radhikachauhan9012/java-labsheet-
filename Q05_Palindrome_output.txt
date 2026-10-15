@@ -1,0 +1,2 @@
+Enter an integer: 121
+121 is a palindrome.

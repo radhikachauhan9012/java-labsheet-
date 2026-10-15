@@ -1,0 +1,2 @@
+Enter a number: -7
+The number is negative.

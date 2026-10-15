@@ -1,0 +1,2 @@
+Enter cost price and selling price: 500 650
+Profit = 150.00
