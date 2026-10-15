@@ -1,0 +1,2 @@
+Enter an integer: 5
+After rotating bits left by 2 = 20

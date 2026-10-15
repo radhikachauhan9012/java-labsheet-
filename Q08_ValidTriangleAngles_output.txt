@@ -1,0 +1,2 @@
+Enter three angles: 60 60 60
+Valid triangle angles

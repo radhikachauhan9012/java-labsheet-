@@ -1,0 +1,4 @@
+Visitors before entry: 10
+Visitor entering (prefix ++): 11
+Visitor leaving (postfix --): 11
+Visitors after leaving: 10

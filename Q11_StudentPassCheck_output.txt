@@ -1,0 +1,2 @@
+Enter theory, practical and overall percentages: 42 55 48
+Student passes the course

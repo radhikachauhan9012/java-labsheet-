@@ -1,0 +1,3 @@
+Enter an integer: 16
+Multiplied by 8 using left shift = 128
+Divided by 4 using right shift = 4

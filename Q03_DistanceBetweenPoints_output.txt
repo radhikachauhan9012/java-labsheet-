@@ -1,0 +1,3 @@
+Enter x1 and y1: 1 2
+Enter x2 and y2: 4 6
+Distance = 5.00

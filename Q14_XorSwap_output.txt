@@ -1,0 +1,2 @@
+Enter two integers: 8 15
+After swapping: a = 15, b = 8

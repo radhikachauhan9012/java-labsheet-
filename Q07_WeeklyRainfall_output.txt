@@ -1,0 +1,8 @@
+Rainfall for day 1 (mm): 2
+Rainfall for day 2 (mm): 0
+Rainfall for day 3 (mm): 5
+Rainfall for day 4 (mm): 1
+Rainfall for day 5 (mm): 3
+Rainfall for day 6 (mm): 4
+Rainfall for day 7 (mm): 0
+Total rainfall = 15.00 mm

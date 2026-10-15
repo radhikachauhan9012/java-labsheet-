@@ -1,0 +1,2 @@
+Enter four numbers: 12 7 19 4
+Smallest number = 4

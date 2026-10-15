@@ -1,0 +1,3 @@
+Enter first word: apple
+Enter second word: banana
+apple comes before banana
